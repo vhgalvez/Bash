@@ -49,7 +49,7 @@ case $opc in
                 mkdir $HOME/COPY
                 cp -r $HOME/datos_test/*  $HOME/COPY
                 ;;
-/home/victory/datos_test
+
                  
 
         4)clear
