@@ -46,11 +46,11 @@ case $opc in
         3)clear
                 echo "esta es la opcion 3"
                 sleep 3
-                sudo mkdir -p $HOME/archivos
+                sudo mkdir -p /home/victory/archivos
                 sleep 3
-                sudo chmod +x $HOME/archivos
+                sudo chmod +x /home/victory/archivos
                 sleep 4
-                sudo cp -r $HOME/datos_test/*  $HOME/archivos
+                sudo cp -r /home/victory/datos_test/* /home/victory/archivos
                 sleep 3
                 ;;
 
