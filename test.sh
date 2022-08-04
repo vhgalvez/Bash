@@ -46,6 +46,7 @@ case $opc in
         3)clear
                 echo "esta es la opcion 3"
                 sleep 1
+                
                 mkdir $HOME/COPY
                 cp -r $HOME/datos_test/*  $HOME/COPY
                 ;;
