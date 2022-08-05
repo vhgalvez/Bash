@@ -1,6 +1,18 @@
 #!/bin/bash
 # https://www.youtube.com/watch?v=2ps9NKILy_I
 
+function backup (){
+
+            echo "hola $USER "
+            sleep 2
+            ;;
+
+
+}
+
+
+
+
 opc=0
 
 while [ $opc -ne 4 ] ; do
@@ -73,4 +85,6 @@ esac
 echo -p "presione una tecla para continuar" tecla
 
 done
+
+
 
