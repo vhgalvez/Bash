@@ -1,14 +1,16 @@
 #!/bin/bash
 # https://www.youtube.com/watch?v=2ps9NKILy_I
 
-function backup (){
-
-            echo "hola $USER "
-            sleep 2
-            ;;
 
 
-}
+# function backup (){
+#
+#           echo "hola $USER "
+#            sleep 2
+#            ;;
+#
+#
+#}
 
 
 
